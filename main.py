@@ -57,3 +57,4 @@ async def volvo(ctx):
     await ctx.send('Volvo (Volvokoncernen, Volvo Group) — концерн, производящий коммерческие и грузовые автомобили, автобусы, двигатели и различное оборудование. Головной компанией концерна является компания AB Volvo. Ранее концерн Volvo производил также легковые автомобили, но в 1999 продал своё отделение легковых автомобилей под именем Volvo Personvagnar (Volvo Cars) концерну Ford, который в 2010 году перепродал его Geely.')
 
 bot.run('MTEyODIyNzM5NjU5NjgwOTgwMA.GQ2WH8.7pMXNJE_ojl3sNa8Arpe7qBB9HhcGIz0DW34uU')
+
